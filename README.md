@@ -37,3 +37,6 @@ models里面用到的放大插件，只用到了第一个2倍的这个模型就�
 插件这几个就够了
 <img width="702" height="355" alt="image" src="https://github.com/user-attachments/assets/dac02586-377b-440c-9159-f07e8579c269" />
 
+
+23号机两个worker的情况：
+15s的视频-16帧的，做了放大插针，2个worker用了9分钟多
